@@ -37,7 +37,7 @@ button {
   background-color: #212529;
 }
 
-button:hover{
+button:hover {
   background-color: #495057;
   border: 1px solid #495057;
 }
