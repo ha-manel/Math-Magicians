@@ -9,12 +9,14 @@
 
 ## Built With
 
+- HTML5
+- CSS3
 - React
 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ha-manel.github.io/Math-Magicians/)
 
 
 ## Getting Started
