@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://ha-manel.github.io/)
+[Live Demo Link](https://ha-manel.github.io/Math-Magicians/)
 
 
 ## Getting Started
