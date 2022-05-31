@@ -20,7 +20,7 @@ header {
   padding: 0 60px;
   box-sizing: border-box;
   background-color: #edf2fb;
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
 }
 
 #logo {
@@ -80,7 +80,7 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 100px);
   grid-template-rows: repeat(6, 70px);
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 12px 28px 0, rgba(0, 0, 0, 0.1) 0 2px 4px 0, rgba(255, 255, 255, 0.05) 0 0 0 1px inset;
 }
 
 .calc-result {
@@ -137,7 +137,7 @@ button:hover {
   padding: 25px;
   padding-left: 50px;
   background-color: #fff;
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
 }
 
 #quote ul li {
