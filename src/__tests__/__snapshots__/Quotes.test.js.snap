@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test of quotes page test if quotes page is rendered 1`] = `
+<div
+  id="quote"
+>
+  <ul>
+    <li>
+      "Mathematics is the music of reason."
+      <span>
+        -James Joseph Sylvester
+      </span>
+    </li>
+    <li>
+      "‘Obvious’ is the most dangerous word in mathematics."
+      <span>
+        -Eric Temple Bell
+      </span>
+    </li>
+    <li>
+      "Mathematics allows for no hypocrisy and no vagueness."
+      <span>
+        -Stendhal
+      </span>
+    </li>
+    <li>
+      "It is impossible to be a mathematician without being a poet in soul."
+      <span>
+        -Sofia Kovalevskaya
+      </span>
+    </li>
+    <li>
+      "Go down deep enough into anything and you will find mathematics."
+      <span>
+        -Dean Schlicter
+      </span>
+    </li>
+  </ul>
+</div>
+`;
