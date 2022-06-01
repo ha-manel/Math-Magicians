@@ -2,7 +2,6 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 import { render, fireEvent, screen } from '@testing-library/react';
 import Button from '../components/button';
-import '@testing-library/jest-dom';
 
 describe('Testing the button component', () => {
   const calculateResult = jest.fn();

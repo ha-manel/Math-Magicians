@@ -14,9 +14,7 @@ exports[`Testing the calculator Calculator is rendered 1`] = `
   >
     <div
       className="calc-result"
-    >
-        
-    </div>
+    />
     <button
       className=""
       onClick={[Function]}
