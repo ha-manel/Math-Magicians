@@ -16,7 +16,12 @@
 
 ## Live Demo
 
-[Live Demo Link](https://ha-manel.github.io/Math-Magicians/)
+### Heroku
+Live Demo [Link](https://manel-math-magicians.herokuapp.com/)
+
+### Netlify
+Live Demo [Link](https://tubular-strudel-616c75.netlify.app/)
+
 
 
 ## Getting Started
